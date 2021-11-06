@@ -10,6 +10,7 @@ A simple setup Web Development with Docker and WordPress
 ### Install
 - Run `docker-compose up -d` on root project
 - Go to `cd wordpress/` and `wp core download` to install WordPress lasted version. 
+- Open `http://localhost:8080` see it working!
 
 ### MySQL
 - hostname: localhost | 3060
