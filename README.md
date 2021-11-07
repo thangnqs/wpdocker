@@ -1,6 +1,6 @@
 # WPDocker
 
-A simple setup Web Development with Docker :hearts: WordPress 
+A simple setup Web Development with Docker :hearts: WordPress or any PHP application
 
 Support on 
  - :white_check_mark: Mac Intel, Mac M1 Chip
