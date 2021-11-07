@@ -38,8 +38,12 @@ Follow the update and get an question to me on WordPress Group [https://www.face
 ### Bugs
 - `chmod -R 777 wordpress/` if `wordpress/` folder not working
 
+### :+1: Work with me
+
+Create a new Pull Request [https://github.com/thangnqs/wpdocker/pulls]
+
 ##### Buy me a Coffee :kissing_heart: :kissing_heart: :kissing_heart:
 
 <img src="support-me-a-coffee.jpg" alt="drawing" width="200"/>
 
-### And If you see it's works please press STAR for me! Thanks 
+### And If you see it's works please press STAR :star: for me! Thanks 
