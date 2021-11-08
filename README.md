@@ -37,7 +37,7 @@ Follow the update and get an question to me on WordPress Group [https://www.face
 - :warning: Added Support Apple Silicon M1 ( please remove `platform: linux/x86_64` when use Intel chip )
 
 ### Bugs
-- `chmod -R 777 wordpress/` if `wordpress/` folder not working
+- permission `chmod -R 777 wordpress/` if `wordpress/` folder not working
 
 ### :+1: Work with me
 
