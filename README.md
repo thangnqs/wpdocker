@@ -29,6 +29,7 @@ Follow the update and get an question to me on WordPress Group [https://www.face
 ### MySQL
 - hostname: localhost | 3060
 - usename: wp | password: secret
+- mysql hostname: mysql 
 - Use client MySQL to connect like TablePlus, MySQL Workbench ...
 
 ### Added 
