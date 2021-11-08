@@ -1,4 +1,4 @@
-# WPDocker
+# Docker for WordPress
 
 A simple setup Web Development with Docker :hearts: WordPress or any PHP application
 
