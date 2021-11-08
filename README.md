@@ -27,9 +27,9 @@ Follow the update and get an question to me on WordPress Group [https://www.face
 - Open `http://localhost:8080` see it working!
 
 ### MySQL
-- hostname: localhost | 3060
-- usename: wp | password: secret
-- mysql hostname: mysql 
+- hostname: `localhost` | `3060`
+- usename: `wp` | password: `secret`
+- mysql hostname: `mysql`
 - Use client MySQL to connect like TablePlus, MySQL Workbench ...
 
 ### Added 
