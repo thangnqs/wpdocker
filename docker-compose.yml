@@ -24,6 +24,7 @@ services:
       MYSQL_USER: wp
       MYSQL_PASSWORD: secret
       MYSQL_ROOT_PASSWORD: secret
+
   php:
     build:
       context: .
