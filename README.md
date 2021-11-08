@@ -39,6 +39,10 @@ Follow the update and get an question to me on WordPress Group [https://www.face
 ### Bugs
 - permission `chmod -R 777 wordpress/` if `wordpress/` folder not working
 
+### Screenshots
+
+<img src="screenshots/env.png" alt="drawing" width="200"/>
+
 ### :+1: Work with me
 
 Create a new Pull Request [https://github.com/thangnqs/wpdocker/pulls]
