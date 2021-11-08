@@ -41,7 +41,7 @@ Follow the update and get an question to me on WordPress Group [https://www.face
 
 ### Screenshots
 
-<img src="screenshots/env.png" alt="drawing" width="200"/>
+<img src="screenshots/env.png" alt="drawing" />
 
 ### :+1: Work with me
 
