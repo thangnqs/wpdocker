@@ -42,6 +42,9 @@ Follow the update and get an question to me on WordPress Group [https://www.face
 ### Screenshots
 
 <img src="screenshots/env.png" alt="drawing" />
+<img src="screenshots/Screenshot_1.png" alt="drawing" />
+<img src="screenshots/Screenshot_2.png" alt="drawing" />
+<img src="screenshots/Screenshot_3.png" alt="drawing" />
 
 ### :+1: Work with me
 
