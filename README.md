@@ -41,18 +41,9 @@ Follow the update and get an question to me on WordPress Group [https://www.face
 
 ### Screenshots
 
-<img src="screenshots/env.png" alt="drawing" />
-<img src="screenshots/Screenshot_1.png" alt="drawing" />
-<img src="screenshots/Screenshot_2.png" alt="drawing" />
-<img src="screenshots/Screenshot_3.png" alt="drawing" />
 <img src="screenshots/Screenshot_4.png" alt="drawing" />
 
 ### :+1: Work with me
 
 Create a new Pull Request [https://github.com/thangnqs/wpdocker/pulls]
 
-##### Buy me a Coffee :kissing_heart: :kissing_heart: :kissing_heart:
-
-<img src="support-me-a-coffee.jpg" alt="drawing" width="200"/>
-
-### And If you see it's works please press STAR :star: for me! Thanks 
