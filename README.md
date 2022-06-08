@@ -10,21 +10,28 @@ Support on
 
 Follow the update and get an question to me on WordPress Group [https://www.facebook.com/groups/wordpressviet/posts/5154112297936613]
 
-### :fire: What's next 2022 ( coming soon )
-- :information_source: Document setup details on MacOS and Windows WSL2
-- :information_source: Add multiple custom domain ( example: domain1.test, domain2.test ) ONLY a source code.
-- :information_source: Add https on localhost ( example: https://domain1.test, https://domain2.test )
+
+### Feature Updated 2022
+
+- Add https on local dev
+- Add custom domain like https://dev.test, ...
 
 ### Required
 - Docker 
 - WP-CLI ( https://wp-cli.org ) 
 - WSL2 on Windows ( optional )
+- Setup `mkcert` at https://github.com/FiloSottile/mkcert
 - TablePlus, MySQL Workbench or any a client connect to MySQL
 
+
 ### Install
-- Run `docker-compose up -d` on root project.
-- Go to `cd wordpress/` and `wp core download` to install WordPress lasted version. 
-- Open `http://localhost:8080` see it working!
+
+- `cd wpdocker` and `cd nginx` and `mkdir certs`
+- Run `mkcert dev.test` and you have 2 files .pem
+- Run `docker-compose up -d --build`
+- Run `sudo chmod -R 777 wordpress/` ( optional )
+- Open on browser https://dev.test 
+- Warning: add `platform: linux/x86_64` when use MACOS M1 devices
 
 ### MySQL
 - hostname: `localhost` | `3060`
@@ -32,19 +39,13 @@ Follow the update and get an question to me on WordPress Group [https://www.face
 - mysql hostname: `mysql`
 - Use client MySQL to connect like TablePlus, MySQL Workbench ...
 
-### Added 
-- :white_check_mark: Works on WSL2 for Windows 10/11 ( https://docs.microsoft.com/en-us/windows/wsl/install )
-- :warning: Added Support Apple Silicon M1 ( please remove `platform: linux/x86_64` when use Intel chip )
-
-### Bugs
-- permission `chmod -R 777 wordpress/` if `wordpress/` folder not working
-
 ### Screenshots
 
 <img src="screenshots/env.png" alt="drawing" />
 <img src="screenshots/Screenshot_1.png" alt="drawing" />
 <img src="screenshots/Screenshot_2.png" alt="drawing" />
 <img src="screenshots/Screenshot_3.png" alt="drawing" />
+<img src="screenshots/Screenshot_4.png" alt="drawing" />
 
 ### :+1: Work with me
 

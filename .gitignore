@@ -5,3 +5,4 @@ node_modules
 wordpress
 mysql
 .idea/
+nginx/certs/
