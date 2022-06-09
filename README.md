@@ -42,9 +42,8 @@ Follow the update and get an question to me on WordPress Group [https://www.face
 
 ### Screenshots
 
+<img src="screenshots/screenshot_5.png" alt="drawing" />
 <img src="screenshots/Screenshot_4.png" alt="drawing" />
 
-### :+1: Work with me
 
-Create a new Pull Request [https://github.com/thangnqs/wpdocker/pulls]
 
