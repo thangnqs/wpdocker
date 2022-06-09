@@ -35,9 +35,10 @@ Follow the update and get an question to me on WordPress Group [https://www.face
 - Warning: add `platform: linux/x86_64` when use MACOS M1 devices
 
 ### MySQL
-- hostname: `localhost` | `3060`
-- usename: `wp` | password: `secret`
-- mysql hostname: `mysql`
+- Hostname: `localhost` | `3060`
+- Usename: `wp` | password: `secret`
+- Mysql hostname: `mysql`
+- Database name: wp
 - Use client MySQL to connect like TablePlus, MySQL Workbench ...
 
 ### Screenshots
