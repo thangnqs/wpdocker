@@ -30,6 +30,7 @@ Follow the update and get an question to me on WordPress Group [https://www.face
 - Run `mkcert dev.test` and you have 2 files .pem
 - Run `docker-compose up -d --build`
 - Run `sudo chmod -R 777 wordpress/` ( optional )
+- Put your content into `wordpress` folder
 - Open on browser https://dev.test 
 - Warning: add `platform: linux/x86_64` when use MACOS M1 devices
 
